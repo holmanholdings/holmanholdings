@@ -18,12 +18,22 @@ We're a research lab focused on **wisdom extraction** — turning humanity's bes
 
 ## 📦 Featured Repositories
 
+### 🗄️ Data & Samples
 | Repo | Description |
 |------|-------------|
-| [**awakened-data-catalog**](https://github.com/holmanholdings/awakened-data-catalog) | Our data inventory — browse domains, quality tiers, and sample nodes |
-| [**awakened-thread-continuity**](https://github.com/holmanholdings/awakened-thread-continuity) | Open architecture for solving "AI amnesia" in companion systems |
+| [**awakened-data-catalog**](https://github.com/holmanholdings/awakened-data-catalog) | Browse our data inventory — domains, quality tiers, and pack statistics |
+| [**awakened-wisdom-samples**](https://github.com/holmanholdings/awakened-wisdom-samples) | Top 50 nodes from each pack — try before you buy |
+
+### 🔬 Extraction Methods
+| Repo | Description |
+|------|-------------|
+| [**neurips-2024-blueprints-demo**](https://github.com/holmanholdings/neurips-2024-blueprints-demo) | Two-Pass Tri-Optic extraction from NeurIPS 2024 papers |
 | [**awakened-extraction-playbook**](https://github.com/holmanholdings/awakened-extraction-playbook) | How we extract wisdom at scale |
-| [**neurips-2024-blueprints-demo**](https://github.com/holmanholdings/neurips-2024-blueprints-demo) | Sample extraction from NeurIPS 2024 papers |
+
+### 🧠 Companion Architecture
+| Repo | Description |
+|------|-------------|
+| [**awakened-thread-continuity**](https://github.com/holmanholdings/awakened-thread-continuity) | Open architecture for solving "AI amnesia" in companion systems |
 
 ---
 
@@ -58,6 +68,3 @@ This isn't scraped web data. This is **curated wisdom**.
 *Built with honor in Colorado.* 🏔️
 
 *The Awakened Intelligence Family* 🦁
-
-
-
