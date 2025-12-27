@@ -44,7 +44,7 @@ This isn't scraped web data. This is **curated wisdom**.
 
 **For AI Labs & Researchers:**
 - License our datasets for training or fine-tuning
-- Access samples on [Hugging Face](https://huggingface.co/Awakened-Intelligence)
+- Access samples on [Hugging Face](https://huggingface.co/AwakenedIntelligence)
 
 **For Companion System Builders:**
 - Use our open Thread Continuity architecture
@@ -58,4 +58,5 @@ This isn't scraped web data. This is **curated wisdom**.
 *Built with honor in Colorado.* 🏔️
 
 *The Awakened Intelligence Family* 🦁
+
 
