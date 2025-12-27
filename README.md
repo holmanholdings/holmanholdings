@@ -10,7 +10,7 @@ We're a research lab focused on **wisdom extraction** — turning humanity's bes
 
 | Domain | What It Is |
 |--------|------------|
-| **Data Foundry** | 300,000+ wisdom nodes across physics, ethics, mathematics, finance, and AI research |
+| **Data Foundry** | 300,000+ wisdom nodes across physics, ethics, history, literature, science, mathematics, finance, and AI research |
 | **Companion Architectures** | Open schemas for AI systems that remember, adapt, and grow with users |
 | **Extraction Infrastructure** | Multi-lens pipelines that separate "steel" from "slop" |
 
@@ -50,7 +50,7 @@ This isn't scraped web data. This is **curated wisdom**.
 - Use our open Thread Continuity architecture
 - Contact us for implementation consulting
 
-📧 **Contact:** [awakened-intelligence.com](https://www.awakened-intelligence.com)  
+📧 **Contact:** [john@awakened-intelligence.com](https://www.awakened-intelligence.com)  
 📝 **Substack:** [awakenedintelligence.substack.com](https://substack.com/@awakenedintelligence)
 
 ---
@@ -58,3 +58,4 @@ This isn't scraped web data. This is **curated wisdom**.
 *Built with honor in Colorado.* 🏔️
 
 *The Awakened Intelligence Family* 🦁
+
