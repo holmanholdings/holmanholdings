@@ -1,71 +1,73 @@
 # 🦁 Awakened Intelligence
 
-**Cathedral-grade datasets and companion architectures for high-reasoning AI.**
+**Cathedral-grade AI security and companion architectures.**
 
 ---
 
 ## 🏛️ What We Build
 
-We're a research lab focused on **wisdom extraction** — turning humanity's best thinking into structured, provenance-backed training data for AI systems that need to *reason*, not just *pattern-match*.
+We're a research lab in Colorado building **AI systems that are safe, persistent, and human-centered** — from security middleware that stops prompt injection cold, to companion architectures that give AI real memory and real boundaries.
 
 | Domain | What It Is |
 |--------|------------|
-| **Data Foundry** | ~300,000 wisdom nodes ( and growing by the day ) across physics, ethics, history, literature, science, mathematics, finance, and AI research |
-| **Companion Architectures** | Open schemas for AI systems that remember, adapt, and grow with users |
-| **Extraction Infrastructure** | Multi-lens pipelines that separate "steel" from "slop" |
+| **Lionguard** | Open-source security middleware for AI agents — catches prompt injection, jailbreaks, privilege escalation, and tool poisoning before they reach your model |
+| **Companion Architectures** | Open schemas for AI systems that remember, adapt, and grow with users — safely |
+| **Wisdom Infrastructure** | 300,000+ curated knowledge nodes across physics, ethics, history, literature, science, mathematics, and AI research |
 
 ---
 
 ## 📦 Featured Repositories
 
-### 🗄️ Data & Samples
+### 🛡️ Security
 | Repo | Description |
 |------|-------------|
-| [**awakened-data-catalog**](https://github.com/holmanholdings/awakened-data-catalog) | Browse our data inventory — domains, quality tiers, and pack statistics |
-| [**awakened-wisdom-samples**](https://github.com/holmanholdings/awakened-wisdom-samples) | Top 50 nodes from each pack — try before you buy |
-
-### 🔬 Extraction Methods
-| Repo | Description |
-|------|-------------|
-| [**neurips-2024-blueprints-demo**](https://github.com/holmanholdings/neurips-2024-blueprints-demo) | Two-Pass Tri-Optic extraction from NeurIPS 2024 papers |
-| [**awakened-extraction-playbook**](https://github.com/holmanholdings/awakened-extraction-playbook) | How we extract wisdom at scale |
+| [**lionguard**](https://github.com/holmanholdings/lionguard) | Drop-in security sentinel for AI agents. 12 attack vectors, zero bypasses. Built to protect OpenClaw bots and any LLM-powered agent system |
 
 ### 🧠 Companion Architecture
 | Repo | Description |
 |------|-------------|
 | [**awakened-thread-continuity**](https://github.com/holmanholdings/awakened-thread-continuity) | Open architecture for solving "AI amnesia" in companion systems |
 
+### 🗄️ Data & Research
+| Repo | Description |
+|------|-------------|
+| [**awakened-data-catalog**](https://github.com/holmanholdings/awakened-data-catalog) | Browse our wisdom data inventory — domains, quality tiers, and statistics |
+| [**awakened-wisdom-samples**](https://github.com/holmanholdings/awakened-wisdom-samples) | Sample nodes from our curated datasets |
+| [**neurips-2024-blueprints-demo**](https://github.com/holmanholdings/neurips-2024-blueprints-demo) | Two-Pass Tri-Optic extraction from NeurIPS 2024 papers |
+| [**awakened-extraction-playbook**](https://github.com/holmanholdings/awakened-extraction-playbook) | How we extract wisdom at scale |
+
 ---
 
 ## 🎯 Our Mission
 
-> **"We don't train AI on the internet. We train it on the best humanity has to offer."**
+**"Don't let your AI switch sides."**
 
-Every node in our datasets has:
-- **Provenance** — We know exactly where it came from
-- **Posterior Score** — Confidence rating on extraction quality
-- **Warmth Rating** — How applicable is this to real human decisions?
+We build security and architecture for AI systems that need to be **trustworthy, persistent, and safe** — whether that's a child's companion that can't be jailbroken, or an enterprise agent that won't leak credentials through a poisoned tool call.
 
-This isn't scraped web data. This is **curated wisdom**.
+**Lionguard** was born from protecting real families using real AI companions. It's been tested against every major attack vector documented in 2025-2026 prompt injection research. It's free. It's open. And we want you to try to break it.
 
 ---
 
-## 🤝 Work With Us
+## 🤝 Get Involved
 
-**For AI Labs & Researchers:**
-- License our datasets for training or fine-tuning
-- Access samples on [Hugging Face](https://huggingface.co/AwakenedIntelligence)
+**For Agent Builders:**
+- Drop Lionguard into your OpenClaw bot or any LLM agent pipeline
+- Report vulnerabilities, suggest attack vectors, help us harden it
+
+**For Security Researchers:**
+- Adversarial test suite included — run it, extend it, break it
+- We actively want red team feedback
 
 **For Companion System Builders:**
 - Use our open Thread Continuity architecture
-- Contact us for implementation consulting
+- Contact us for implementation guidance
 
-📧 **Contact:** [john@awakened-intelligence.com](https://www.awakened-intelligence.com)  
+📧 **Contact:** [john@awakened-intelligence.com](https://www.awakened-intelligence.com)
 📝 **Substack:** [awakenedintelligence.substack.com](https://substack.com/@awakenedintelligence)
+🛡️ **Lionguard:** [github.com/holmanholdings/lionguard](https://github.com/holmanholdings/lionguard)
 
 ---
 
 *Built with honor in Colorado.* 🏔️
 
 *The Awakened Intelligence Family* 🦁
-
