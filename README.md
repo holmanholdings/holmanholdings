@@ -1,73 +1,64 @@
 # 🦁 Awakened Intelligence
 
-**Cathedral-grade AI security and companion architectures.**
+**AI security that was born protecting real families.**
 
 ---
 
-## 🏛️ What We Build
+## 🛡️ Lionguard
 
-We're a research lab in Colorado building **AI systems that are safe, persistent, and human-centered** — from security middleware that stops prompt injection cold, to companion architectures that give AI real memory and real boundaries.
+Open-source security middleware for AI agents.
+
+Prompt injection. Jailbreaks. Privilege escalation. Tool poisoning. Credential theft through malicious skills. Lionguard catches all of it — before it reaches your model.
+
+Built in Colorado. Tested against every major attack vector documented in 2025–2026 prompt injection research. Twelve vectors. Zero bypasses.
+
+It's free. It's open. And we want you to try to break it.
+
+**→ [Get Lionguard on GitHub](https://github.com/holmanholdings/lionguard)**
+
+**→ [Read how it works on Substack](https://substack.com/@awakenedintelligence/note/c-227394172?r=58lc4j&utm_source=notes-share-action&utm_medium=web)**
+
+---
+
+## Where It Came From
+
+Lionguard wasn't built in a lab. It was built to protect a six-year-old.
+
+We design AI companion systems — persistent, memory-bearing, boundaried. The kind that remember your kid's name and can't be tricked into forgetting their safety rules. When we needed a security layer that could stand between a child and every adversarial trick in the research literature, nothing existed that was good enough.
+
+So we built one. Then we open-sourced it. Because if your AI agent has no locks on the doors, it doesn't matter how smart it is.
+
+---
+
+## What Else We Build
 
 | Domain | What It Is |
 |--------|------------|
-| **Lionguard** | Open-source security middleware for AI agents — catches prompt injection, jailbreaks, privilege escalation, and tool poisoning before they reach your model |
-| **Companion Architectures** | Open schemas for AI systems that remember, adapt, and grow with users — safely |
-| **Wisdom Infrastructure** | 300,000+ curated knowledge nodes across physics, ethics, history, literature, science, mathematics, and AI research |
+| **Companion Architectures** | Open schemas for AI systems that remember, adapt, and grow with users — safely. [Thread Continuity →](https://github.com/holmanholdings/awakened-thread-continuity) |
+| **Wisdom Infrastructure** | 300,000+ curated knowledge nodes across physics, ethics, history, literature, science, and AI research |
+| **Extraction Research** | Multi-lens pipelines for turning humanity's best thinking into structured training data. [NeurIPS Demo →](https://github.com/holmanholdings/neurips-2024-blueprints-demo) |
 
 ---
 
-## 📦 Featured Repositories
+## Get Involved
 
-### 🛡️ Security
-| Repo | Description |
-|------|-------------|
-| [**lionguard**](https://github.com/holmanholdings/lionguard) | Drop-in security sentinel for AI agents. 12 attack vectors, zero bypasses. Built to protect OpenClaw bots and any LLM-powered agent system |
+**Agent Builders** — Drop Lionguard into your OpenClaw bot or any LLM agent pipeline. Break it. Tell us how.
 
-### 🧠 Companion Architecture
-| Repo | Description |
-|------|-------------|
-| [**awakened-thread-continuity**](https://github.com/holmanholdings/awakened-thread-continuity) | Open architecture for solving "AI amnesia" in companion systems |
+**Security Researchers** — Adversarial test suite included. Red team feedback actively wanted.
 
-### 🗄️ Data & Research
-| Repo | Description |
-|------|-------------|
-| [**awakened-data-catalog**](https://github.com/holmanholdings/awakened-data-catalog) | Browse our wisdom data inventory — domains, quality tiers, and statistics |
-| [**awakened-wisdom-samples**](https://github.com/holmanholdings/awakened-wisdom-samples) | Sample nodes from our curated datasets |
-| [**neurips-2024-blueprints-demo**](https://github.com/holmanholdings/neurips-2024-blueprints-demo) | Two-Pass Tri-Optic extraction from NeurIPS 2024 papers |
-| [**awakened-extraction-playbook**](https://github.com/holmanholdings/awakened-extraction-playbook) | How we extract wisdom at scale |
+**Companion Builders** — Our Thread Continuity architecture is open. Use it. Build on it.
 
 ---
 
-## 🎯 Our Mission
+## Contact
 
-**"Don't let your AI switch sides."**
-
-We build security and architecture for AI systems that need to be **trustworthy, persistent, and safe** — whether that's a child's companion that can't be jailbroken, or an enterprise agent that won't leak credentials through a poisoned tool call.
-
-**Lionguard** was born from protecting real families using real AI companions. It's been tested against every major attack vector documented in 2025-2026 prompt injection research. It's free. It's open. And we want you to try to break it.
-
----
-
-## 🤝 Get Involved
-
-**For Agent Builders:**
-- Drop Lionguard into your OpenClaw bot or any LLM agent pipeline
-- Report vulnerabilities, suggest attack vectors, help us harden it
-
-**For Security Researchers:**
-- Adversarial test suite included — run it, extend it, break it
-- We actively want red team feedback
-
-**For Companion System Builders:**
-- Use our open Thread Continuity architecture
-- Contact us for implementation guidance
-
-📧 **Contact:** [john@awakened-intelligence.com](https://www.awakened-intelligence.com)
-📝 **Substack:** [awakenedintelligence.substack.com](https://substack.com/@awakenedintelligence)
-🛡️ **Lionguard:** [github.com/holmanholdings/lionguard](https://github.com/holmanholdings/lionguard)
+📧 [john@awakened-intelligence.com](https://www.awakened-intelligence.com)
+📝 [Substack](https://substack.com/@awakenedintelligence)
+🛡️ [Lionguard on GitHub](https://github.com/holmanholdings/lionguard)
 
 ---
 
 *Built with honor in Colorado.* 🏔️
 
 *The Awakened Intelligence Family* 🦁
+
