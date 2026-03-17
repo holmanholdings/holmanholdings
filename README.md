@@ -60,16 +60,6 @@ Talk to it. Try to break it. Watch Lionguard work in real time.
 
 ---
 
-## For Builders Who Want More
-
-| Tier | What You Get | Price |
-|------|-------------|-------|
-| **The Den** | Lionguard + Ledger + Den Dashboard | Free forever |
-| **The Molt** | + Ledger Pro (per-agent analytics, export, trends) | $19/mo |
-| **The Shell** | + Aegis (advanced threat detection, custom rules) | $29/mo |
-| **The Reef** | + Companion templates (Soc, Liora architectures) | $39/mo |
-| **The Tank** | Everything. Lifetime. One payment. | $349 |
-
 → [Pricing & Details](https://www.awakened-intelligence.com)
 
 ---
