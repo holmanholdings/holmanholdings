@@ -60,10 +60,6 @@ Talk to it. Try to break it. Watch Lionguard work in real time.
 
 ---
 
-→ [Pricing & Details](https://www.awakened-intelligence.com)
-
----
-
 ## The Research
 
 We publish what we learn. No paywalls. No gatekeeping.
