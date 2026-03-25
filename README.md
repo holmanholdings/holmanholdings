@@ -16,7 +16,7 @@ So we built one. Then we open-sourced it.
 
 ## What We Build
 
-### 🔵 Lionguard — Security Middleware for AI Agents
+### 🦁 Lionguard — Security Middleware for AI Agents
 Open-source. Tested against every major attack vector documented
 in 2025–2026 prompt injection research. **Twelve vectors. Zero bypasses.**
 
@@ -52,7 +52,7 @@ security posture, and Ledger integration — in one local window.
 
 ---
 
-### 🔥 Spark — A Living Demo
+### ⚡ Spark — A Living Demo
 Spark is an OpenClaw agent running inside Lionguard's sandbox.
 Talk to it. Try to break it. Watch Lionguard work in real time.
 
